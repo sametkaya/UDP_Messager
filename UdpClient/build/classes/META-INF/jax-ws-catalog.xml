@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://webservice.tabpadmenu.com/TabPadService.svc?wsdl" uri="wsdl/webservice.tabpadmenu.com/TabPadService.svc.wsdl"/>
+    <system systemId="http://webservice.tabpadmenu.com/TabPadService.svc?xsd=xsd0" uri="wsdl/webservice.tabpadmenu.com/TabPadService.svc.xsd_xsd0.xsd"/>
+    <system systemId="http://webservice.tabpadmenu.com/TabPadService.svc?xsd=xsd1" uri="wsdl/webservice.tabpadmenu.com/TabPadService.svc.xsd_xsd1.xsd"/>
+    <system systemId="http://webservice.tabpadmenu.com/TabPadService.svc?xsd=xsd2" uri="wsdl/webservice.tabpadmenu.com/TabPadService.svc.xsd_xsd2.xsd"/>
+</catalog>
